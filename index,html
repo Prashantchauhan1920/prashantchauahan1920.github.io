@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="rules.css"?>
+<books>
+	<heading>Welcome To Books store </heading>
+	<book>
+		<title>Title -: Web Technologies</title>
+		<author>Author -: A. Tech  </author>
+		<publisher>Publisher -: Laxmi publication</publisher>
+		<edition>Edition -: 3</edition>
+		<price> Price -: 900</price>
+	</book>
+	<book>
+		<title>Title -: English</title>
+		<author>Author -: Neetu singh</author>
+		<publisher>Publisher -: Pearson</publisher>
+		<edition>Edition -: 3</edition>
+		<price>Price -: 400</price>
+	</book>
+	<book>
+		<title>Title -: Computer Networks</title>
+		<author>Author -: S. Kumar</author>
+		<publisher>Publisher -: Mc Graw Hill</publisher>
+		<edition>Edition -: 5</edition>
+		<price>Price -: 700</price>
+	</book>
+	<book>
+		<title>Title -: DBMS </title>
+		<author>Author -: Narayan</author>
+		<publisher>Publisher -: Oxford</publisher>
+		<edition>Edition -: 5</edition>
+		<price>Price -: 600</price>
+	</book>
+	<book>
+		<title>Title -: Linux Programming</title>
+		<author>Author -: Subhitab Das</author>
+		<publisher>Publisher -: Oxford</publisher>
+		<edition>Edition -: 8</edition>
+		<price>Price -: 300</price>
+	</book>
+</books>
